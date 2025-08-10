@@ -1,13 +1,8 @@
-# week1-python-programming
-num1 = float(input("input first num"))
-num2 = float(input("input second num"))
+## week1-python-programming assignment
+# Instructions:
 
-sum = num1 + num2
-diff = num1 - num2
-prod = num1 * num2
-quot = num1 / num2
+Basic Calculator Program
 
-print(f'sum is:{sum}')
-print(f'differene is:{diff}')
-print(f'product is:{prod}')
-print(f'quotient is:{quot}')
+- Create a simple Python program that asks the user to input two numbers and a mathematical operation (addition, subtraction, multiplication, or division).
+- Perform the operation based on the user's input and print the result.
+- Example: If a user inputs 10, 5, and +, your program should display 10 + 5 = 15
